@@ -3,3 +3,5 @@ class DNP{
 	System.out.println("North Maharashtra University");
 }
 }
+
+}}
